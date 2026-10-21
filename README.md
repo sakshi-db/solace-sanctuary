@@ -49,3 +49,30 @@ Follow these steps to run **Solace** locally on your machine:
    ```bash
    git clone [https://github.com/sakshi-db/solace-sanctuary.git](https://github.com/sakshi-db/solace-sanctuary.git)
    cd solace-sanctuary
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+
+4. **Open in browser:**
+   Navigate to http://localhost:5173 to experience Solace!
+
+---
+
+## 🤝 Contributing
+Contributions, feedback, and feature requests are welcome! Feel free to open an issue or submit a pull request as part of Hacktoberfest 2026.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 💜 Acknowledgments
+Built with love for college students everywhere navigating heavy workloads, burnout, and low-energy days. Remember: doing 10% on a bad day is infinitely better than doing 0%. 🦥✨
